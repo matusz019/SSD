@@ -16,6 +16,11 @@ public class Driver {
 		store.hasEmail("j.kozlowska01@gmail.com");
 		store.displayEmails();
 		
+		System.out.println("-----------------");
+		
+		WordCounter wc = new WordCounter();
+		wc.addSentence("This sentence has the word has in it twice");
+		wc.outputResults();
 
 	}
 
