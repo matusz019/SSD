@@ -1,0 +1,32 @@
+{
+
+	"101": {
+		"name": "SSD",
+		"level": 5,
+		"tutor": "Josh Jacobson",
+		"running": true,
+		"students": 100
+	},
+	"102": {
+		"name": "OOP",
+		"level": 4,
+		"tutor": "Josn Hendley",
+		"running": false,
+		"students": 120
+	},
+	"201": {
+		"name": "DMA",
+		"level": 6,
+		"tutor":"Pete Jackson",
+		"running": true,
+		"students": 10
+	},
+	
+	"202": {
+		"name": "FOCP",
+		"level": 4,
+		"tutor":"JJ Mills",
+		"running": false
+	}
+
+}
